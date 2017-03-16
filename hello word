@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MY FIRST HTML DOC</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h1>The Learn Enough Story</h1>
+<p>Learn Enough To Be Dangerous is a leader in the movement to teach
+<em>technical sophistication</em>, the seemingly magical ability to take
+command of your computer and get it to do your bidding. This includes
+everything from command lines and coding to guessing keyboard shortcuts,
+Googling error messages, and knowing when to just reboot the darn thing.
+We believe there are <b>at least a billion people</b> who can benefit from
+learning technical sophistication, probably more. To join our
+movement, <a href="http://leanenough.com/email">sign up for our official email list</a>now.
+</p>
+<img src="file:///C:/Users/DELL/Desktop/kitten.jpg" alt="an aldorable kitten">
+<h2>Background</h2>
+<p>Learn Enough To Be dangerous is an outgrowth of the <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a> and the <a href="http://www.softcover.io/">Softcover publishing platform</a>. This page is part of the sample site for <a href="http://learnenough.com/html-tutorial"><em>Learn Enough HTML to Be Dangerous</em></a>, which teaches the basic of <b>H</b>yper<b>T</b>ext <b>M</b>arkup <b>L</b>anguage, the universal language of the World Wide Web. Other related tutorials can be found at <a href="learnenough.com/">learnenough.com</a>
+</p>
